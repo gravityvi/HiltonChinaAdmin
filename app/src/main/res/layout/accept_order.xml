@@ -29,7 +29,7 @@
             android:layout_marginRight="4dp"
             android:layout_marginBottom="16dp"
             android:fontFamily="sans-serif"
-            android:hint="Contact details"/>
+            android:hint="Time in minutes"/>
     </LinearLayout>
 
 </LinearLayout>
